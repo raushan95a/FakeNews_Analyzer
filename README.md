@@ -433,20 +433,6 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-### 🚀 Ready to Deploy Your Fraud Detection System?
-
-**[Get Started](#quick-start)** • **[View Demo](#demo)** • **[Contribute](#contributing)**
-
----
-
-*Built with ⚡ by the FraudNet AI team*
-
-*Protecting transactions with neural intelligence and cyberpunk style* 🛡️
-
-</div>
-
----
-
 ## 📈 Changelog
 
 ### v2.1.0 (Current)
@@ -469,6 +455,4 @@ copies or substantial portions of the Software.
 - 🖥️ Simple web interface
 - 🔧 Core ML pipeline implementation
 
----
 
-*Last updated: December 2024*
