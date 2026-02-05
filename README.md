@@ -12,7 +12,7 @@
 
 *Real-time transaction analysis with neural network intelligence and futuristic UI*
 
-[🔗 Demo](https://fraudnet.onrender.com/) • [📖 Documentation](#installation) • [🎯 Features](#features) • [🚀 Quick Start](#quick-start)
+[ Documentation](#installation) • [🎯 Features](#features) • [🚀 Quick Start](#quick-start)
 
 </div>
 
@@ -71,8 +71,8 @@ pip package manager
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/fraudnet-ai.git
-   cd fraudnet-ai
+   git clone https://github.com/raushan95a/FakeNews_Analyzer.git
+   cd FakeNews_Analyzer
    ```
 
 2. **Install dependencies**
@@ -102,7 +102,7 @@ pip package manager
 ## 📦 Project Structure
 
 ```
-fraudnet-ai/
+FakeNews_Analyzer/
 ├── app.py                      # Main Streamlit application
 ├── fraud_detection_model.pkl   # Trained ML model (user-provided)
 ├── requirements.txt            # Python dependencies
@@ -217,8 +217,8 @@ FRAUDNET_CONFIDENCE_THRESHOLD=0.8
 
 1. **Clone and setup**
    ```bash
-   git clone https://github.com/your-username/fraudnet-ai.git
-   cd fraudnet-ai
+   git clone https://github.com/raushan95a/FakeNews_Analyzer.git
+   cd FakeNews_Analyzer
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    pip install -r requirements.txt
@@ -403,9 +403,9 @@ copies or substantial portions of the Software.
 
 ### Community
 
-- **GitHub**: [https://github.com/your-username/fraudnet-ai](https://github.com/your-username/fraudnet-ai)
-- **Issues**: [Report bugs and request features](https://github.com/your-username/fraudnet-ai/issues)
-- **Discussions**: [Community discussions and Q&A](https://github.com/your-username/fraudnet-ai/discussions)
+- **GitHub**: [https://github.com/raushan95a/FakeNews_Analyzer](https://github.com/raushan95a/FakeNews_Analyzer)
+- **Issues**: [Report bugs and request features](https://github.com/raushan95a/FakeNews_Analyzer/issues)
+- **Discussions**: [Community discussions and Q&A](https://github.com/raushan95a/FakeNews_Analyzer/discussions)
 
 ---
 
